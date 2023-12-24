@@ -16,7 +16,19 @@ Core features of the app include:
   9) Post Page: Allows users to create and share posts with their followers. Users can share pictures with descriptions and locations attached for immersive user experiences.
 
 ## Technology Used
-WanderWise is built using **React Native** in the frontend. This allows us to serve users with an Android and IOS compatible application with a user friendly and modern user interface. Expo was used to deploy our frontend and publish it for the public to access. 
+
+- React Native
+- Django
+- JavaScript
+- Python
+- Firebase
+- PythonEverywhere
+- Expo
+- Xcode/Android Studio
+- GitHub
+
+
+WanderWise is built using **React Native** in the frontend. This allows us to serve users with an Android and IOS compatible application with a user friendly and modern user interface. **Expo** was used to deploy our frontend and publish it for the public to access. 
 
 
 WanderWise uses **Firebase Authentication** to verify all users visiting our application. **Firebase Storage** is used to save all images uploaded to our application, including post images and profile images. **Firestore Database** is used to store user data consisting of personal information, post information, following/follower mappings, etc. 
@@ -48,18 +60,6 @@ cd Frontend
 npx expo start --offline
 ```
 (Install XCode/Android Studio for IOS/Android Simulators)
-
-## Recap of Technologies Used: 
-- React Native
-- Django
-- JavaScript
-- Python
-- Firebase
-- PythonEverywhere
-- Expo
-- Xcode/Android Studio
-- GitHub
-
 
 ## Deployment Process
 
